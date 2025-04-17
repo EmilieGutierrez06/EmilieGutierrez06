@@ -1,4 +1,4 @@
-<h3 align="left">Olá 👋! <br>Meu nome é Emilie e eu sou estudante de Analise e desenvolvimento de sistemas na faculdade SPTECH.</h3>
+<h3 align="left">Olá 👋! <br>Meu nome é Emilie e sou estudante de Analise e desenvolvimento de sistemas na faculdade SPTECH.</h3>
 
 ###
 
